@@ -30,7 +30,10 @@ The application follows a real-world authentication flow with **token-based logi
 - Laravel
 - Laravel Sanctum (Authentication)
 
-> ⚠️ Backend repository will be added separately.
+>  Backend repository (laravel).
+```
+https://github.com/hongggf/emart_backend.git
+```
 
 ---
 
@@ -51,8 +54,7 @@ Follow the steps below to clone and run the project locally.
 git clone https://github.com/hongggf/Flutter_emart.git
 cd Flutter_emart
 Step 2: Install Dependencies
-bash
-Copy code
+
 flutter pub get
 Step 3: Run the Application
 bash
