@@ -1,9 +1,7 @@
 # Flutter E-Commerce Mobile Application
 
 A production-ready **Flutter mobile application** built using **GetX** for state management and routing.  
-The app implements a real-world authentication flow with **token-based login** and **SharedPreferences** for secure token persistence.
-
-
+The application follows a real-world authentication flow with **token-based login** and **SharedPreferences** for secure token persistence.
 
 ---
 
@@ -15,7 +13,7 @@ The app implements a real-world authentication flow with **token-based login** a
 - Protected API requests
 - Product listing
 - Clean and scalable folder structure
-- Loading & error handling states
+- Loading and error handling states
 - Ready for backend integration
 
 ---
@@ -32,15 +30,31 @@ The app implements a real-world authentication flow with **token-based login** a
 - Laravel
 - Laravel Sanctum (Authentication)
 
- Backend repository will be added separately.
+> ⚠️ Backend repository will be added separately.
 
+---
 
-how to clone and run 
-step 1:
-Clone the Repository
+## 🚀 Getting Started
+
+Follow the steps below to clone and run the project locally.
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio or VS Code
+- Android Emulator or physical device
+
+---
+
+### Step 1: Clone the Repository
+
+```
 git clone https://github.com/hongggf/Flutter_emart.git
 cd Flutter_emart
-
-step 2:
+Step 2: Install Dependencies
+bash
+Copy code
 flutter pub get
+Step 3: Run the Application
+bash
+Copy code
 flutter run
