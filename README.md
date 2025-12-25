@@ -53,10 +53,12 @@ Follow the steps below to clone and run the project locally.
 ```
 git clone https://github.com/hongggf/Flutter_emart.git
 cd Flutter_emart
+```
 Step 2: Install Dependencies
-
+```
 flutter pub get
+```
 Step 3: Run the Application
-bash
-Copy code
+```
 flutter run
+```
